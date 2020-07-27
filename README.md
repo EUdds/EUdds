@@ -18,7 +18,7 @@ I'm a junior at the University of Wisconsin - Madison majoring in Computer engin
 - :computer: Website Managemet Intern at [Fond du Lac Area United Way](https://fdlunitedway.org)
 - :bullettrain_side: Software Team Lead at [Badgerloop](https://badgerloop.com)
 
-### This Week's Wakatime Stats
+### Languages I'm Working in Right Now
 
 ![Wakatime Activity](https://github.com/EUdds/Eudds/blob/master/images/stat.svg)
 
