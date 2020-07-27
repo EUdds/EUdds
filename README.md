@@ -9,7 +9,7 @@ I'm a junior at the University of Wisconsin - Madison majoring in Computer engin
 - Front-end development using **React or VanillaJS**
 - Backend development using **NodeJS or Express**
 - Data Science development using **Python/Pandas & Numpy, or Matlab**
-- Embedded developement using **C and C++**
+- Embedded developement using **C or C++**
 - Other technologies I use like **Java, GitLabs CI/CD, or Linux**
 
 ## What I'm Up To
