@@ -2,7 +2,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Eric_Udlis)](https://twitter.com/Eric_Udlis)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-udlis/)](https://www.linkedin.com/in/eric-udlis/)
 
-I'm a junior at the University of Wisconsin - Madison majoring in Computer engineering. I'm currently learning more about embedded development and data science.
+I'm a junior at the University of Wisconsin - Madison majoring in computer engineering. I'm currently learning more about embedded development and data science.
 
 ### Talk to me about
 
