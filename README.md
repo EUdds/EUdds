@@ -14,8 +14,7 @@ I'm a junior at the University of Wisconsin - Madison majoring in computer engin
 
 ## What I'm Up To
 
-- :atom: Research Computing Facilitation Assistant at [UW - Center for High Throughput Computing](http://chtc.cs.wisc.edu)
-- :computer: Website Management Intern at [Fond du Lac Area United Way](https://fdlunitedway.org)
+- :computer: Associate Software Engineer at [Extreme Engineering Solutions](https://xes-inc.com)
 - :bullettrain_side: Controls Team Lead at [Badgerloop](https://badgerloop.com)
 
 ### Languages I'm Working in Right Now
