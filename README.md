@@ -6,16 +6,16 @@ I'm a junior at the University of Wisconsin - Madison majoring in computer engin
 
 ### Talk to me about
 
-- Front-end development using **React or VanillaJS**
-- Backend development using **NodeJS or Express**
-- Data Science development using **Python/Pandas & Numpy, or Matlab**
-- Embedded developement using **C or C++**
-- Other technologies I use like **Java, GitLabs CI/CD, or Linux**
+- Embedded developement using **C, C++, or Python**
+- Data Science development using **Python, Pandas & Numpy, or Matlab**
+- Front-end development using **React, VanillaJS, or Jinja**
+- Backend development using **NodeJS, Express, Flask, or Django**
+- Other technologies I use like **Java, GitLab CI/CD, or Linux**
 
 ## What I'm Up To
 
-- 🚗 Software Engineering Intern at [Tesla](https://tesla.com)
-- :bullettrain_side: Controls Team Lead at [Badgerloop](https://badgerloop.com)
+- 🔌 🚗 Software Engineering Intern at [Tesla](https://tesla.com)
+- ☀️ 🚗 Software/Firmware Member at [Badgerloop](https://badgerloop.com)
 
 ### Languages I'm Working in Right Now
 
