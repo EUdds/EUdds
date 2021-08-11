@@ -14,7 +14,7 @@ I'm a junior at the University of Wisconsin - Madison majoring in computer engin
 
 ## What I'm Up To
 
-- :computer: Associate Software Engineer at [Extreme Engineering Solutions](https://xes-inc.com)
+- 🚗 Software Engineering Intern at [Tesla](https://tesla.com)
 - :bullettrain_side: Controls Team Lead at [Badgerloop](https://badgerloop.com)
 
 ### Languages I'm Working in Right Now
