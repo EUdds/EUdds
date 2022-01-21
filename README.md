@@ -14,7 +14,7 @@ I'm a senior at the University of Wisconsin - Madison majoring in Computer Engin
 - Project Management using **Jira, Confluence, Redmine, or GitHub**
 - Other technologies I use like **Java, GitLab CI/CD, Jenkins, or Linux**
 
-## What I'm Up To
+### What I'm Up To
 
 - 🔌 🚗 Autopilot Sensing Intern at [Tesla](https://tesla.com)
 - ☀️ 🚗 President [Badgerloop](https://badgerloop.org)
