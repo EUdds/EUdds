@@ -17,7 +17,7 @@ I'm a senior at the University of Wisconsin - Madison majoring in Computer Engin
 ### What I'm Up To
 
 - 🔌 🚗 Autopilot Sensing Intern at [Tesla](https://tesla.com)
-- ☀️ 🚗 President [Badgerloop](https://badgerloop.org)
+- ☀️ 🚗 President of [Badgerloop](https://badgerloop.org)
 <!-- 
 ### Languages I'm Working in Right Now
 
