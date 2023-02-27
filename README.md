@@ -17,7 +17,7 @@ I'm a senior at the University of Wisconsin - Madison majoring in Computer Engin
 ### What I'm Up To
 
 - 🔌 🚗 Digital Signal Processing Software Engineer @ [Tesla](https://tesla.com)
-- ☀️ 🚗 Embedded Systems Enthsiest (Former President) of [Badgerloop](https://badgerloop.org)
+- ☀️ 🚗 Embedded Systems Enthusiest (Former President) of [Badgerloop](https://badgerloop.org)
 <!-- 
 ### Languages I'm Working in Right Now
 
