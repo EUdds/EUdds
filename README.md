@@ -6,7 +6,7 @@ Digital Signal Processing Software Engineer @ [Tesla](https://tesla.com)
 
 ### Talk to me about
 
-- Embedded developement using **C or C++**
+- Embedded development using **C or C++**
 - **Python** (in all forms)
   - I also like using **Pandas, Numpy, Sklearn**
   - I don't mind **MATLAB**
